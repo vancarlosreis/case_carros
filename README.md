@@ -81,7 +81,7 @@ O dashboard foi projetado para ser intuitivo e fornecer insights rápidos sobre 
 
 ## Como Visualizar e Interagir
 
-1.  **Clone o Repositório:** `git clone [link_do_seu_repositorio]`
+1.  **Clone o Repositório:** `git clone https://github.com/vancarlosreis/case_carros`
 2.  **Dados:** Certifique-se de ter o arquivo `car_prices.csv` na estrutura de pastas esperada pelo notebook PySpark.
 3.  **Executar ETL (PySpark):** Abra `notebooks/Case_carros.ipynb` em um ambiente como Google Colab ou Jupyter e execute todas as células para gerar o arquivo `Carros.csv` processado.
 4.  **Abrir Dashboard (Power BI):** Baixe e abra o arquivo `.pbix` localizado em `powerbi/` utilizando o Power BI Desktop.
