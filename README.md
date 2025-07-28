@@ -1,5 +1,8 @@
 # Análise de Vendas de Veículos: Do Raw Data ao Dashboard Interativo
 
+<img width="1276" height="713" alt="Captura de tela 2025-07-05 191906" src="https://github.com/user-attachments/assets/33bb997b-a261-4ec5-81bb-3e775cabcbc6" />
+
+
 ## Visão Geral do Projeto
 
 Este projeto demonstra um pipeline completo de Análise de Dados, desde a ingestão e transformação de dados brutos até a criação de um dashboard interativo no Power BI. O objetivo principal é extrair insights valiosos sobre o mercado de vendas de veículos, identificando tendências de preços, modelos populares, desempenho de vendedores e padrões sazonais.
