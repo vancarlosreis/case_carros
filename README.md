@@ -16,7 +16,7 @@ O projeto utiliza um conjunto de dados contendo informações detalhadas sobre v
 * `modelo`: Modelo específico do veículo.
 * `cambio`: Tipo de transmissão (automática, manual).
 * `estado`: Estado onde a venda ocorreu.
-* `vendedor`: Nome do vendedor ou concessionária.
+* `vendedor`: Nome da concessionária.
 * `preco_venda`: Preço final de venda do veículo.
 * `data_venda`: Data em que a venda foi realizada.
 
